@@ -7,7 +7,7 @@
 <h2 align="center">About Me</a></h2>
 
 - Currently working in my own Roblox football league called **EVS**, who will has own discord bot (made with TypeScript), own roblox game and website
-- Probably the 80% of my repositories are **private repositories** because probably all of that projects have been made for EVS who have all the code closed source except some repositories like <a href="https://github.com/unknown420x/LuaSilencer">LuaSilencer</a> what i use for obfuscate all the code
+- Probably the 80% of my repositories are **private repositories** because probably all of that projects have been made for EVS who have all the code closed source
 - When i made complete new projects, i open source the old ones to all the public
 
 ### Projects i'm currently working
